@@ -1,4 +1,8 @@
-# Awesome UNet with Transformers: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/givkashi/Awesome-unet-like-transformers)
+# Awesome UNet with Transformers: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/givkashi/Awesome-unet-like-transformers) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=givkashiAwesome-unet-like-transformers)
+
+This repository is a paper list of UNet with Transformers. Feel free to contact me (givkashi@gmail.com) if you find any interesting paper about UNet with Transformers that I missed. I would greatly appreciate it : )  
+
+If you find this repo is helpful, please star it.
 
 ## Pure Transformer based Methods
 Year|Proceeding|Title
