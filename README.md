@@ -36,6 +36,7 @@ Year|Proceeding|Title
 2022|Elsevier 2022|TransUNet+: Redesigning the skip connection to enhance features in medical image segmentation [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122009522) |
 2022|AAAI 2022|UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer [[pdf]](https://arxiv.org/pdf/2109.04335) [[code]](https://github.com/McGregorWwww/UCTransNet)|
 2022|WACV 2022|AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2110.10403)|
+2022|arXive 2022|Focal-Unet: Unet-like Focal Modulation for Medical Image Segmentation [[pdf]](https://arxiv.org/abs/2212.09263) [[code]](https://github.com/givkashi/Focal-Unet)|
 
 ------
 
