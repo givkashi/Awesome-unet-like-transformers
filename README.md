@@ -25,6 +25,7 @@ Year|Proceeding|Title
 2021|MICCAI 2021|UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2107.00781) [[code]](https://github.com/yhygao/UTNet)|
 2021|arXive 2021|Hepatic vessel segmentation based on 3D swin-transformer with inductive biased multi-head self-attention [[pdf]](https://arxiv.org/pdf/2111.03368)|
 2021|MICCAI 2021|TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2102.08005) [[code]](https://github.com/Rayicer/TransFuse)|
+2021|Springer 2021|GT U-Net: A U-Net Like Group Transformer Network for Tooth Root Segmentation [[pdf]](https://arxiv.org/pdf/2109.14813) [[code]](https://github.com/Kent0n-Li/GT-U-Net)|
 2021|MICCAI 2021|TransBTS: Multimodal Brain Tumor Segmentation Using Transformer [[pdf]](https://arxiv.org/pdf/2103.04430) [[code]](https://github.com/Wenxuan-1119/TransBTS)|
 2022|arXive 2022|TransBTSV2: Towards Better and More Efficient Volumetric Segmentation of Medical Images [[pdf]](https://arxiv.org/pdf/2201.12785) [[code]](https://github.com/Wenxuan-1119/TransBTS)|
 2022|IEEE Trans 2022|TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2107.05274) [[code]](https://github.com/YishuLiu/TransAttUnet)|
@@ -37,6 +38,7 @@ Year|Proceeding|Title
 2022|AAAI 2022|UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer [[pdf]](https://arxiv.org/pdf/2109.04335) [[code]](https://github.com/McGregorWwww/UCTransNet)|
 2022|WACV 2022|AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2110.10403)|
 2022|arXive 2022|Focal-Unet: Unet-like Focal Modulation for Medical Image Segmentation [[pdf]](https://arxiv.org/abs/2212.09263) [[code]](https://github.com/givkashi/Focal-Unet)|
+
 
 ------
 
