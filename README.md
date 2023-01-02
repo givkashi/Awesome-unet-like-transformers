@@ -4,7 +4,7 @@ This repository is a paper list of UNet with Transformers. Feel free to contact 
 
 If you find this repo is helpful, please star it.
 
-## Pure Transformer based Methods
+## Pure Transformer based Methods:
 Year|Proceeding|Title
 --|:--:|:--:|
 2021|Springer 2021|Convolution-Free Medical Image Segmentation Using Transformers [[pdf]](https://arxiv.org/pdf/2102.13645)|
@@ -12,7 +12,7 @@ Year|Proceeding|Title
 2022|IEEE Trans 2022|DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2106.06716) [[code]](https://github.com/HuCaoFighting/Swin-Unet)|
 2022|Springer 2022|TransDeepLab: Convolution-Free Transformer-Based DeepLab v3+ for Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2208.00713) [[code]](https://github.com/rezazad68/transdeeplab)|
 
-## Transformer+CNN based Methods
+## Transformer+CNN based Methods:
 Year|Proceeding|Title
 --|:--:|:--:|
 2021|CVPR 2021|TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2102.04306) [[code]](https://github.com/Beckschen/TransUNet)|
